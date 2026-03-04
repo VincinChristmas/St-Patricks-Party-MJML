@@ -3,7 +3,7 @@
     </mj-raw>
     <mj-section css-class="header section-padding">
       <mj-column>
-      <mj-image alt="Shopify logo" href="https://shopify.com" width="121px" align="left" src="http://127.0.0.1:5500/assets/logo.png">
+      <mj-image alt="St Patrick's Party Ladies" href="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/stpatrickspartyladies.jpg?raw=true" width="512px" align="left" src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/stpatrickspartyladies.jpg?raw=true">
 
       </mj-image>
       </mj-column>
