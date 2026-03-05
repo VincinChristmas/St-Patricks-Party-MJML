@@ -10,39 +10,25 @@
    text-decoration: none;
 }
 
-.link-color:hover {
-   font-weight: bold;
-   
+.ticket-link {
+   color: #6898F7;
    text-decoration: underline;
 }
 
-.small-link-color {
-   color: #008600;
-   text-decoration: none;
-}
 
-.small-link-color:hover {
-   font-weight: bold;
-   color: #008600;
-   text-decoration: underline;
-}
-
-.footer-links {
-   color: #000;
-   text-decoration: none;
-}
-
-.footer-links:hover {
-   color: #004c3f;
-   text-decoration: none;
-}
 </mj-style>
 </mj-head>
 
 <mj-body background-color="#000">
+
 <mj-section>
  <mj-include path="components/header.mjml" />
+</mj-section>
 
+<mj-section>
+<mj-text class="ticket-link" align="center" font-size="20px">
+ Save On Early MAXIM Tickets Now
+</mj-text>
 </mj-section>
 
 </mj-body>
