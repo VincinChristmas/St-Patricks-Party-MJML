@@ -1,35 +1,31 @@
 <mjml>
-<mj-head>
-<mj-style>
-*{
-   box-sizing: border-box;
-}
-
-.link-color {
-   color: #004c3f;
-   text-decoration: none;
-}
-
-.ticket-link {
-   color: #6898F7;
-   text-decoration: underline;
-}
-
-
-</mj-style>
-</mj-head>
-
-<mj-body background-color="#000">
-
+<mj-body background-color="#020000">
+<!--Image Header-->
 <mj-section>
- <mj-include path="components/header.mjml" />
+  <mj-column>
+  <mj-image
+   width="600px"
+   src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/stpatrickspartyladies.jpg?raw=true" alt="party ladies" />
+  </mj-column>
 </mj-section>
-
+<!--Company Header-->
 <mj-section>
-<mj-text class="ticket-link" align="center" font-size="20px">
- Save On Early MAXIM Tickets Now
-</mj-text>
+  <mj-column>
+    <mj-text
+    align="center"
+    color="#6898CF"
+    font-size="20px"
+    >
+      Save On Early MAXIM Tickets Now
+    </mj-text>
+  </mj-column>
 </mj-section>
-
+<!--Party Header-->
+<mj-section>
+  <mj-column>
+    <mj-image src="" alt="" />
+  </mj-column>
+</mj-section>
+  
 </mj-body>
 </mjml>
