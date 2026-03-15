@@ -1,10 +1,15 @@
 <mjml>
+<mj-head>
+  <mj-style>
+    .content-width-section { max-width: 550px !important; }
+  </mj-style>
+</mj-head>
 <mj-body background-color="#020000">
 <!--Image Header-->
 <mj-section>
   <mj-column>
   <mj-image
-   width="600px"
+   
    src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/stpatrickspartyladies.jpg?raw=true" alt="party ladies" />
   </mj-column>
 </mj-section>
@@ -21,11 +26,59 @@
   </mj-column>
 </mj-section>
 <!--Party Header-->
-<mj-section>
+<mj-section
+padding-bottom="0"
+margin-bottom="0"
+>
   <mj-column>
-    <mj-image src="" alt="" />
+    <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/loudluxury.jpg?raw=true" alt="loud luxury ad"
+    border-bottom="3px solid #FFF"
+     />   
   </mj-column>
 </mj-section>
+<!--Party Details - constrained to match image content width (550px)-->
+<mj-section
+css-class="content-width-section"
+background-color="#39364F"
+vertical-align="middle"
+>
+  <mj-column width="65%">
+  <mj-text
+    color="#00FFF8"
+    font-size="16px"
   
-</mj-body>
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+
+  <mj-text
+  color="#DBDAE3"
+  font-size="20px"
+  line-height=1.2
+  >
+    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+  </mj-text>
+
+  <mj-text
+  color="#6f7287"
+  >
+    The Midway SF
+  </mj-text>
+  </mj-column>
+
+  <mj-column width="35%" vertical-align="middle">
+    <mj-button
+    background-color="#DBDAE3"
+    color="#000"
+    font-size="13px"
+    font-weight="bold"
+    >
+      Buy Tickets !
+    </mj-button>
+  </mj-column>
+</mj-section>
+
+
+
+  </mj-body>
 </mjml>
