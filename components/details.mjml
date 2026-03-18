@@ -1,0 +1,11 @@
+<mj-section background-color="#020000" inner-background-color="#39364F" padding="0 20px">
+  <mj-column padding="10px 0">
+  <mj-text
+    color="#00FFF8"
+    font-size="18px"
+    align="center"
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+  </mj-column>
+</mj-section>
