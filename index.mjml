@@ -67,17 +67,20 @@ margin= "0"
 </mj-section>
 
 <!--Party Sub-Details-->
+
 <mj-section
   padding= "0"
 >
+<!--top right-->
 <mj-column>
+<mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
 
   >
-    Saturday, February 7, 2026 8:00 PM
+    Saturday, February 7, 2026 10:30 PM
   </mj-text> 
 
   <mj-text
@@ -87,7 +90,7 @@ margin= "0"
     font-weight="bold"
     background="#39364F"
   >
-    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+    Tiesto | Big Game Weekend Party | Omnia Nightclub
   </mj-text>
 
   <mj-text
@@ -96,12 +99,13 @@ margin= "0"
     font-size="13px"
     background="#39364F"
   >
-    The Midway SF
+    OMNIA Las Vegas Nightclub
   </mj-text>
   </mj-column>
 
-
+<!--top left-->
   <mj-column>
+  <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/pubcrawl.jpg?raw=true" alt="pubcrawl-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
@@ -137,6 +141,7 @@ margin= "0"
   padding= "0"
 >
 <mj-column>
+<mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
@@ -168,6 +173,7 @@ margin= "0"
 
 
   <mj-column>
+  <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
@@ -203,6 +209,7 @@ margin= "0"
   padding= "0"
 >
 <mj-column>
+<mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
@@ -234,6 +241,7 @@ margin= "0"
 
 
   <mj-column>
+  <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
