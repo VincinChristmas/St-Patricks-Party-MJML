@@ -34,36 +34,237 @@ margin= "0"
 <!--Party Details-->
 <mj-section
   padding= "0"
-margin= "0"
 >
   <mj-column>
   <mj-text
+    padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-    background="#39364F"
+
   >
     Saturday, February 7, 2026 8:00 PM
   </mj-text> 
 
   <mj-text
-  color="#DBDAD3"
+    padding-bottom="5px"
+  color="#DBDAE3"
     font-size="18px"
+    font-weight="bold"
     background="#39364F"
   >
     Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
   </mj-text>
 
   <mj-text
-  color="#DBDAD3"
-    font-size="18px"
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="13px"
     background="#39364F"
   >
     The Midway SF
   </mj-text>
-
-
   </mj-column>
 </mj-section>
+
+<!--Party Sub-Details-->
+<mj-section
+  padding= "0"
+>
+<mj-column>
+  <mj-text
+    padding-bottom="5px"
+    color="#00FFF8"
+    font-size="15px"
+
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="18px"
+    font-weight="bold"
+    background="#39364F"
+  >
+    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+  </mj-text>
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="13px"
+    background="#39364F"
+  >
+    The Midway SF
+  </mj-text>
+  </mj-column>
+
+
+  <mj-column>
+  <mj-text
+    padding-bottom="5px"
+    color="#00FFF8"
+    font-size="15px"
+
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="18px"
+    font-weight="bold"
+    background="#39364F"
+  >
+    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+  </mj-text>
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="13px"
+    background="#39364F"
+  >
+    The Midway SF
+  </mj-text>
+  </mj-column>
+
+</mj-section>
+
+<mj-section
+  padding= "0"
+>
+<mj-column>
+  <mj-text
+    padding-bottom="5px"
+    color="#00FFF8"
+    font-size="15px"
+
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="18px"
+    font-weight="bold"
+    background="#39364F"
+  >
+    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+  </mj-text>
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="13px"
+    background="#39364F"
+  >
+    The Midway SF
+  </mj-text>
+  </mj-column>
+
+
+  <mj-column>
+  <mj-text
+    padding-bottom="5px"
+    color="#00FFF8"
+    font-size="15px"
+
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="18px"
+    font-weight="bold"
+    background="#39364F"
+  >
+    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+  </mj-text>
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="13px"
+    background="#39364F"
+  >
+    The Midway SF
+  </mj-text>
+  </mj-column>
+
+</mj-section>
+
+<mj-section
+  padding= "0"
+>
+<mj-column>
+  <mj-text
+    padding-bottom="5px"
+    color="#00FFF8"
+    font-size="15px"
+
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="18px"
+    font-weight="bold"
+    background="#39364F"
+  >
+    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+  </mj-text>
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="13px"
+    background="#39364F"
+  >
+    The Midway SF
+  </mj-text>
+  </mj-column>
+
+
+  <mj-column>
+  <mj-text
+    padding-bottom="5px"
+    color="#00FFF8"
+    font-size="15px"
+
+  >
+    Saturday, February 7, 2026 8:00 PM
+  </mj-text> 
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="18px"
+    font-weight="bold"
+    background="#39364F"
+  >
+    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+  </mj-text>
+
+  <mj-text
+    padding-bottom="5px"
+  color="#DBDAE3"
+    font-size="13px"
+    background="#39364F"
+  >
+    The Midway SF
+  </mj-text>
+  </mj-column>
+
+</mj-section>
+
 
 
 
