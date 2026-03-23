@@ -71,7 +71,7 @@ margin= "0"
 <mj-section
   padding= "0"
 >
-<!--top right-->
+<!--top left-->
 <mj-column>
 <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
   <mj-text
@@ -103,7 +103,7 @@ margin= "0"
   </mj-text>
   </mj-column>
 
-<!--top left-->
+<!--top right-->
   <mj-column>
   <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/pubcrawl.jpg?raw=true" alt="pubcrawl-promotion-image" />
   <mj-text
@@ -112,7 +112,7 @@ margin= "0"
     font-size="15px"
 
   >
-    Saturday, February 7, 2026 8:00 PM
+    Saturday, March 14, 2026 1:00 PM
   </mj-text> 
 
   <mj-text
@@ -122,7 +122,7 @@ margin= "0"
     font-weight="bold"
     background="#39364F"
   >
-    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+    San Francisco St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
@@ -131,24 +131,26 @@ margin= "0"
     font-size="13px"
     background="#39364F"
   >
-    The Midway SF
+    Comet Club SF
   </mj-text>
   </mj-column>
 
 </mj-section>
 
+<!--Mid Block-->
 <mj-section
   padding= "0"
 >
+<!--mid left-->
 <mj-column>
-<mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
+<mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/newportbeach.jpg?raw=true" alt="NewportBeach-pub-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
 
   >
-    Saturday, February 7, 2026 8:00 PM
+    Saturday, March 14, 2026 1:00 PM
   </mj-text> 
 
   <mj-text
@@ -158,7 +160,7 @@ margin= "0"
     font-weight="bold"
     background="#39364F"
   >
-    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+    Newport Beach St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
@@ -167,20 +169,20 @@ margin= "0"
     font-size="13px"
     background="#39364F"
   >
-    The Midway SF
+    Baja Sharkeez
   </mj-text>
   </mj-column>
 
-
+<!--mid right-->
   <mj-column>
-  <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
+  <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/pubcrawl.jpg?raw=true" alt="pubcrawl-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
 
   >
-    Saturday, February 7, 2026 8:00 PM
+    Saturday, March 14, 2026 2:00 PM
   </mj-text> 
 
   <mj-text
@@ -190,7 +192,7 @@ margin= "0"
     font-weight="bold"
     background="#39364F"
   >
-    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+     San Diego St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
@@ -199,24 +201,25 @@ margin= "0"
     font-size="13px"
     background="#39364F"
   >
-    The Midway SF
+    Taste & Thirst
   </mj-text>
   </mj-column>
 
 </mj-section>
-
+<!--Bottom Block-->
 <mj-section
   padding= "0"
 >
+<!--bottom left-->
 <mj-column>
-<mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
+<mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/pubcrawl.jpg?raw=true" alt="pubcrawl-promotion-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
 
   >
-    Saturday, February 7, 2026 8:00 PM
+    Saturday, March 14, 2026 2:00 PM
   </mj-text> 
 
   <mj-text
@@ -226,7 +229,7 @@ margin= "0"
     font-weight="bold"
     background="#39364F"
   >
-    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+    Santa Monica St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
@@ -235,20 +238,20 @@ margin= "0"
     font-size="13px"
     background="#39364F"
   >
-    The Midway SF
+    Jamison's Pub - Santa Monica
   </mj-text>
   </mj-column>
 
-
+<!--bottom right-->
   <mj-column>
-  <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/omnia-party.jpg?raw=true" alt="omnia-promotion-image" />
+  <mj-image src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/bitcoin.jpg?raw=true" alt="bitcoin-party-image" />
   <mj-text
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
 
   >
-    Saturday, February 7, 2026 8:00 PM
+    Monday, April 27, 2026 8:00 AM
   </mj-text> 
 
   <mj-text
@@ -258,7 +261,7 @@ margin= "0"
     font-weight="bold"
     background="#39364F"
   >
-    Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
+    Las Vegas | Bitcoin
   </mj-text>
 
   <mj-text
@@ -267,10 +270,32 @@ margin= "0"
     font-size="13px"
     background="#39364F"
   >
-    The Midway SF
+    The Venetian Las Vegas
   </mj-text>
   </mj-column>
+</mj-section>
 
+<!--Divider Line-->
+<mj-section>
+  
+  <mj-divider border-color="#FFF" border-width="3px" padding-top="50px" padding-bottom="20px" />
+    
+ 
+</mj-section>
+
+<mj-section  >
+  <mj-column background-color="red">
+    <mj-text
+    align="center"
+    color="#000"
+    font-size="16px"
+   
+   
+    >
+      Discover More Events
+    </mj-text>
+    
+  </mj-column>
 </mj-section>
 
 
