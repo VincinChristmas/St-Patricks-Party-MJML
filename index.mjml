@@ -1,4 +1,6 @@
 <mjml>
+
+
 <mj-body background-color="#020000">
 <!--Image Header-->
 <mj-section>
@@ -296,8 +298,18 @@ margin= "0"
   </mj-column>
 </mj-section>
 
-
-
-
+<mj-section
+  full-width="full-width"
+  background-color="#30425E"
+  padding="20px 0"
+>
+  <mj-column align="center">
+    <mj-image
+      src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/crescent-moon-4.jpg?raw=true"
+      alt="moon-logo"
+      width="50px"
+    />
+  </mj-column>
+</mj-section>
   </mj-body>
 </mjml>
