@@ -297,18 +297,30 @@ margin= "0"
     
   </mj-column>
 </mj-section>
-
 <mj-section
   full-width="full-width"
   background-color="#30425E"
   padding="20px 0"
 >
   <mj-column align="center">
+
+    <!-- MOON LOGO -->
     <mj-image
-      src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/Waning-Crescent-Moon.png?raw=true"
+      src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/moon.png?raw=true"
       alt="moon-logo"
-      width="50px"
+      width="80px"
     />
+
+    <!-- ✅ TIGHT HORIZONTAL ICONS (NO SPREADING) -->
+    <mj-text padding="10px 0" align="center">
+      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/twitter.png?raw=true" width="25" style="margin:0 3px;">
+      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/twitter.png?raw=true" width="25" style="margin:0 3px;">
+      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/twitter.png?raw=true" width="25" style="margin:0 3px;">
+    </mj-text>
+
+  </mj-column>
+</mj-section>
+
   </mj-column>
 </mj-section>
   </mj-body>
