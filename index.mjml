@@ -3,13 +3,29 @@
 
 <mj-body background-color="#020000">
 <!--Image Header-->
-<mj-section>
-  <mj-column>
-  <mj-image
-   
-   src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/stpatrickspartyladies.jpg?raw=true" alt="party ladies" />
-  </mj-column>
-</mj-section>
+<!-- Image Header: full-bleed (bypasses MJML's inner max-width:600px wrapper) -->
+<mj-raw>
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+    <tbody>
+      <tr>
+        <td align="center" style="padding-top:50px; padding-left: 35px; padding-right: 35px; line-height:0;font-size:0;mso-line-height-rule:exactly;">
+          <!--[if mso]>
+          <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="800"><tr><td style="line-height:0;font-size:0;mso-line-height-rule:exactly;">
+          <![endif]-->
+          <img
+            src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/stpatrickspartyladies.jpg?raw=true"
+            alt="party ladies"
+            width="800"
+            style="display:block;width:100%;max-width:100%;height:auto;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"
+          />
+          <!--[if mso]>
+          </td></tr></table>
+          <![endif]-->
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</mj-raw>
 <!--Company Header-->
 <mj-section>
   <mj-column>
@@ -42,26 +58,28 @@ margin= "0"
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-
+    line-height="1.4"
   >
     Saturday, February 7, 2026 8:00 PM
   </mj-text> 
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="18px"
     font-weight="bold"
     background="#39364F"
+    line-height="1.4"
   >
     Hugel, Loud Luxury, Larry June | Maxim Big Game Party SF
   </mj-text>
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="13px"
     background="#39364F"
+    line-height="1.4"
   >
     The Midway SF
   </mj-text>
@@ -80,26 +98,28 @@ margin= "0"
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-
+    line-height="1.4"
   >
     Saturday, February 7, 2026 10:30 PM
   </mj-text> 
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="18px"
     font-weight="bold"
     background="#39364F"
+    line-height="1.4"
   >
     Tiesto | Big Game Weekend Party | Omnia Nightclub
   </mj-text>
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="13px"
     background="#39364F"
+    line-height="1.4"
   >
     OMNIA Las Vegas Nightclub
   </mj-text>
@@ -112,26 +132,28 @@ margin= "0"
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-
+    line-height="1.4"
   >
     Saturday, March 14, 2026 1:00 PM
   </mj-text> 
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="18px"
     font-weight="bold"
     background="#39364F"
+    line-height="1.4"
   >
     San Francisco St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="13px"
     background="#39364F"
+    line-height="1.4"
   >
     Comet Club SF
   </mj-text>
@@ -150,26 +172,28 @@ margin= "0"
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-
+    line-height="1.4"
   >
     Saturday, March 14, 2026 1:00 PM
   </mj-text> 
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="18px"
     font-weight="bold"
     background="#39364F"
+    line-height="1.4"
   >
     Newport Beach St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="13px"
     background="#39364F"
+    line-height="1.4"
   >
     Baja Sharkeez
   </mj-text>
@@ -182,26 +206,28 @@ margin= "0"
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-
+    line-height="1.4"
   >
     Saturday, March 14, 2026 2:00 PM
   </mj-text> 
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="18px"
     font-weight="bold"
     background="#39364F"
+    line-height="1.4"
   >
      San Diego St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="13px"
     background="#39364F"
+    line-height="1.4"
   >
     Taste & Thirst
   </mj-text>
@@ -219,26 +245,28 @@ margin= "0"
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-
+    line-height="1.4"
   >
     Saturday, March 14, 2026 2:00 PM
   </mj-text> 
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="18px"
     font-weight="bold"
     background="#39364F"
+    line-height="1.4"
   >
     Santa Monica St Patrick's Day Weekend Pub Crawl
   </mj-text>
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="13px"
     background="#39364F"
+    line-height="1.4"
   >
     Jamison's Pub - Santa Monica
   </mj-text>
@@ -251,26 +279,28 @@ margin= "0"
     padding-bottom="5px"
     color="#00FFF8"
     font-size="15px"
-
+    line-height="1.4"
   >
     Monday, April 27, 2026 8:00 AM
   </mj-text> 
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="18px"
     font-weight="bold"
     background="#39364F"
+    line-height="1.4"
   >
     Las Vegas | Bitcoin
   </mj-text>
 
   <mj-text
     padding-bottom="5px"
-  color="#DBDAE3"
+    color="#DBDAE3"
     font-size="13px"
     background="#39364F"
+    line-height="1.4"
   >
     The Venetian Las Vegas
   </mj-text>
@@ -313,15 +343,24 @@ margin= "0"
 
     <!-- ✅ TIGHT HORIZONTAL ICONS (NO SPREADING) -->
     <mj-text padding="10px 0" align="center">
-      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/twitter.png?raw=true" width="25" style="margin:0 3px;">
-      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/twitter.png?raw=true" width="25" style="margin:0 3px;">
-      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/twitter.png?raw=true" width="25" style="margin:0 3px;">
+      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/twitter.png?raw=true" width="25" style="margin:0 3px;" alt="twitter-icon">
+      <img src="https://github.com/VincinChristmas/St-Patricks-Party-MJML/blob/main/images/facebook.png?raw=true" width="25" style="margin:0 3px;" alt="facebook-icon">
+      <img src="images/instagram.png" width="25" style="margin:0 3px;" alt="instagram-icon">
     </mj-text>
 
+<mj-text align="center" color="#a1a2a2" font-size="16px" line-height="1.5">
+  VIP Nightlife
+</mj-text>
+
+<mj-text align="center" color="#a1a2a2" font-size="16px" line-height="1.5">
+  4321 W Flamingo Rd, Las Vegas, NV 89109 US
+</mj-text>
+
+<mj-text align="center" color="#a1a2a2" font-size="16px" line-height="1.5">
+  Unsubscribe | Privacy Policy
+</mj-text>
   </mj-column>
 </mj-section>
 
-  </mj-column>
-</mj-section>
-  </mj-body>
+</mj-body>
 </mjml>
